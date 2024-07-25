@@ -1,0 +1,9 @@
+# cmake
+# dlib 
+# face_recognition
+# here install dlib file for specific version of python 
+# link is https://github.com/z-mahmud22/Dlib_Windows_Python3.x/tree/main 
+# this dlib is super important for face-recognition installation 
+
+
+
